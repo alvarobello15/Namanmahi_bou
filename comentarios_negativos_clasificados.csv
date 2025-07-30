@@ -1,0 +1,306 @@
+producto_id,cliente_id,fecha,pais,canal,texto,prediccion,tema
+PROD-001,CLIENT-0997,2025-02-01,Argentina,app,No cumplió con mis expectativas.,NEG,otro
+PROD-001,CLIENT-0996,2025-04-13,Argentina,redes,No cumplió con mis expectativas.,NEG,otro
+PROD-001,CLIENT-0994,2025-04-26,México,redes,No lo recomiendo para nada.,NEG,otro
+PROD-001,CLIENT-0991,2025-02-23,España,app,Es justo lo que necesitaba.,NEG,otro
+PROD-001,CLIENT-0989,2025-06-17,España,app,Es justo lo que necesitaba.,NEG,otro
+PROD-001,CLIENT-0988,2025-04-07,Chile,redes,No lo recomiendo para nada.,NEG,otro
+PROD-001,CLIENT-0982,2025-06-10,Argentina,app,Calidad decente por el precio.,NEG,precio
+PROD-001,CLIENT-0981,2025-04-29,Argentina,web,"Nada especial, pero funcional.",NEG,otro
+PROD-001,CLIENT-0976,2025-04-25,Chile,web,"Nada especial, pero funcional.",NEG,otro
+PROD-001,CLIENT-0975,2025-05-05,México,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-001,CLIENT-0973,2025-03-02,España,redes,Es justo lo que necesitaba.,NEG,otro
+PROD-001,CLIENT-0970,2025-06-04,Argentina,web,No cumplió con mis expectativas.,NEG,otro
+PROD-001,CLIENT-0968,2025-04-21,Colombia,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-001,CLIENT-0963,2025-07-11,Argentina,app,"Nada especial, pero funcional.",NEG,otro
+PROD-001,CLIENT-0962,2025-07-18,Chile,redes,No cumplió con mis expectativas.,NEG,otro
+PROD-001,CLIENT-0960,2025-05-16,México,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-001,CLIENT-0959,2025-04-14,España,redes,El servicio fue deficiente.,NEG,atención
+PROD-001,CLIENT-0958,2025-06-25,Argentina,redes,Es justo lo que necesitaba.,NEG,otro
+PROD-001,CLIENT-0957,2025-07-18,Chile,web,Calidad decente por el precio.,NEG,precio
+PROD-001,CLIENT-0956,2025-06-12,España,web,No lo recomiendo para nada.,NEG,otro
+PROD-001,CLIENT-0953,2025-03-11,España,web,"Nada especial, pero funcional.",NEG,otro
+PROD-001,CLIENT-0947,2025-04-01,España,app,No lo recomiendo para nada.,NEG,otro
+PROD-001,CLIENT-0946,2025-02-27,Colombia,web,El servicio fue deficiente.,NEG,atención
+PROD-001,CLIENT-0943,2025-04-11,Chile,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-001,CLIENT-0942,2025-06-11,Colombia,app,Calidad decente por el precio.,NEG,precio
+PROD-001,CLIENT-0933,2025-04-02,Chile,app,El servicio fue deficiente.,NEG,atención
+PROD-001,CLIENT-0923,2025-04-24,Chile,web,"Nada especial, pero funcional.",NEG,otro
+PROD-001,CLIENT-0917,2025-02-10,Chile,web,Es justo lo que necesitaba.,NEG,otro
+PROD-001,CLIENT-0915,2025-04-16,Argentina,app,No lo recomiendo para nada.,NEG,otro
+PROD-001,CLIENT-0912,2025-03-03,México,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-001,CLIENT-0911,2025-03-11,España,web,Es justo lo que necesitaba.,NEG,otro
+PROD-001,CLIENT-0908,2025-07-13,Argentina,app,"Nada especial, pero funcional.",NEG,otro
+PROD-001,CLIENT-0907,2025-03-13,Chile,web,Muy satisfecho con la compra.,NEG,otro
+PROD-001,CLIENT-0905,2025-06-26,Colombia,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-001,CLIENT-0904,2025-04-23,Chile,redes,Calidad decente por el precio.,NEG,precio
+PROD-001,CLIENT-0903,2025-04-13,México,redes,Es justo lo que necesitaba.,NEG,otro
+PROD-001,CLIENT-0901,2025-02-04,España,app,Muy satisfecho con la compra.,NEG,otro
+PROD-001,CLIENT-0892,2025-04-08,México,app,El servicio fue deficiente.,NEG,atención
+PROD-001,CLIENT-0889,2025-06-05,Colombia,app,Es justo lo que necesitaba.,NEG,otro
+PROD-001,CLIENT-0887,2025-02-08,México,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-001,CLIENT-0881,2025-06-22,Chile,redes,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-001,CLIENT-0877,2025-02-10,Chile,web,"Nada especial, pero funcional.",NEG,otro
+PROD-001,CLIENT-0871,2025-04-17,Argentina,redes,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-001,CLIENT-0870,2025-03-16,Chile,web,No lo recomiendo para nada.,NEG,otro
+PROD-001,CLIENT-0869,2025-03-13,España,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-001,CLIENT-0868,2025-04-07,Chile,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-001,CLIENT-0864,2025-06-13,México,web,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-001,CLIENT-0859,2025-07-24,México,app,Demasiado caro para lo que es.,NEG,precio
+PROD-001,CLIENT-0856,2025-07-08,México,app,El servicio fue deficiente.,NEG,atención
+PROD-001,CLIENT-0852,2025-05-25,Colombia,app,No lo recomiendo para nada.,NEG,otro
+PROD-001,CLIENT-0847,2025-06-23,México,redes,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-001,CLIENT-0846,2025-07-25,Chile,web,No lo recomiendo para nada.,NEG,otro
+PROD-001,CLIENT-0840,2025-04-09,Argentina,redes,No cumplió con mis expectativas.,NEG,otro
+PROD-001,CLIENT-0839,2025-02-26,España,redes,Calidad decente por el precio.,NEG,precio
+PROD-001,CLIENT-0838,2025-05-04,Colombia,app,El servicio fue deficiente.,NEG,atención
+PROD-001,CLIENT-0837,2025-03-04,México,web,"Nada especial, pero funcional.",NEG,otro
+PROD-001,CLIENT-0833,2025-02-04,España,web,No cumplió con mis expectativas.,NEG,otro
+PROD-001,CLIENT-0832,2025-05-15,España,redes,El servicio fue deficiente.,NEG,atención
+PROD-001,CLIENT-0831,2025-06-28,España,web,No cumplió con mis expectativas.,NEG,otro
+PROD-001,CLIENT-0822,2025-04-13,España,redes,Demasiado caro para lo que es.,NEG,precio
+PROD-001,CLIENT-0820,2025-04-11,Chile,web,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-001,CLIENT-0817,2025-07-11,Argentina,app,Demasiado caro para lo que es.,NEG,precio
+PROD-001,CLIENT-0815,2025-06-15,Colombia,app,No lo recomiendo para nada.,NEG,otro
+PROD-001,CLIENT-0812,2025-04-05,Colombia,web,Demasiado caro para lo que es.,NEG,precio
+PROD-001,CLIENT-0809,2025-03-05,Argentina,redes,El servicio fue deficiente.,NEG,atención
+PROD-001,CLIENT-0807,2025-02-11,Chile,web,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-001,CLIENT-0805,2025-02-14,Colombia,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-001,CLIENT-0804,2025-03-27,Chile,app,Muy satisfecho con la compra.,NEG,otro
+PROD-002,CLIENT-0799,2025-02-05,Argentina,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0798,2025-07-10,Argentina,web,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0794,2025-07-08,Argentina,web,Es justo lo que necesitaba.,NEG,otro
+PROD-002,CLIENT-0789,2025-06-30,Chile,web,Calidad decente por el precio.,NEG,precio
+PROD-002,CLIENT-0784,2025-03-23,Colombia,redes,No lo recomiendo para nada.,NEG,otro
+PROD-002,CLIENT-0782,2025-03-09,Argentina,redes,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-002,CLIENT-0781,2025-03-19,España,web,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-002,CLIENT-0777,2025-02-18,Chile,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-002,CLIENT-0771,2025-02-18,Colombia,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-002,CLIENT-0769,2025-04-28,España,web,Demasiado caro para lo que es.,NEG,precio
+PROD-002,CLIENT-0768,2025-05-13,Argentina,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-002,CLIENT-0766,2025-02-21,Chile,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-002,CLIENT-0765,2025-03-15,España,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0763,2025-02-07,Colombia,redes,Es justo lo que necesitaba.,NEG,otro
+PROD-002,CLIENT-0761,2025-03-20,España,app,Demasiado caro para lo que es.,NEG,precio
+PROD-002,CLIENT-0757,2025-05-24,Colombia,web,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-002,CLIENT-0756,2025-07-09,Colombia,app,Muy satisfecho con la compra.,NEG,otro
+PROD-002,CLIENT-0755,2025-07-29,México,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0751,2025-03-31,Chile,app,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0750,2025-07-29,Chile,app,No cumplió con mis expectativas.,NEG,otro
+PROD-002,CLIENT-0744,2025-05-28,Argentina,web,No cumplió con mis expectativas.,NEG,otro
+PROD-002,CLIENT-0739,2025-04-16,Argentina,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0736,2025-05-29,España,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-002,CLIENT-0734,2025-02-12,España,app,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0733,2025-05-24,Colombia,web,No lo recomiendo para nada.,NEG,otro
+PROD-002,CLIENT-0732,2025-07-02,México,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0728,2025-03-26,México,app,Calidad decente por el precio.,NEG,precio
+PROD-002,CLIENT-0724,2025-03-07,Argentina,redes,Es justo lo que necesitaba.,NEG,otro
+PROD-002,CLIENT-0723,2025-05-27,España,web,Demasiado caro para lo que es.,NEG,precio
+PROD-002,CLIENT-0722,2025-02-10,Colombia,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-002,CLIENT-0721,2025-02-08,España,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-002,CLIENT-0719,2025-03-10,Colombia,redes,El servicio fue deficiente.,NEG,atención
+PROD-002,CLIENT-0718,2025-05-19,Argentina,web,Demasiado caro para lo que es.,NEG,precio
+PROD-002,CLIENT-0716,2025-05-18,Colombia,redes,No cumplió con mis expectativas.,NEG,otro
+PROD-002,CLIENT-0710,2025-05-17,Chile,web,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0703,2025-07-16,España,app,No cumplió con mis expectativas.,NEG,otro
+PROD-002,CLIENT-0692,2025-05-02,España,app,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0687,2025-02-19,México,redes,No lo recomiendo para nada.,NEG,otro
+PROD-002,CLIENT-0685,2025-02-05,México,app,Es justo lo que necesitaba.,NEG,otro
+PROD-002,CLIENT-0681,2025-02-28,España,app,Muy satisfecho con la compra.,NEG,otro
+PROD-002,CLIENT-0679,2025-05-20,Argentina,web,Demasiado caro para lo que es.,NEG,precio
+PROD-002,CLIENT-0675,2025-05-07,Chile,web,Calidad decente por el precio.,NEG,precio
+PROD-002,CLIENT-0674,2025-06-20,España,web,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-002,CLIENT-0664,2025-03-23,México,web,El servicio fue deficiente.,NEG,atención
+PROD-002,CLIENT-0663,2025-06-01,Argentina,redes,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-002,CLIENT-0662,2025-02-27,Colombia,app,Es justo lo que necesitaba.,NEG,otro
+PROD-002,CLIENT-0661,2025-04-08,Colombia,app,Calidad decente por el precio.,NEG,precio
+PROD-002,CLIENT-0655,2025-06-27,España,web,Es justo lo que necesitaba.,NEG,otro
+PROD-002,CLIENT-0654,2025-06-16,Colombia,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-002,CLIENT-0652,2025-03-15,Argentina,web,Es justo lo que necesitaba.,NEG,otro
+PROD-002,CLIENT-0649,2025-02-11,Colombia,web,No lo recomiendo para nada.,NEG,otro
+PROD-002,CLIENT-0644,2025-05-27,España,redes,Demasiado caro para lo que es.,NEG,precio
+PROD-002,CLIENT-0641,2025-04-04,Colombia,redes,El servicio fue deficiente.,NEG,atención
+PROD-002,CLIENT-0636,2025-02-22,Colombia,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-002,CLIENT-0634,2025-07-20,Colombia,redes,No lo recomiendo para nada.,NEG,otro
+PROD-002,CLIENT-0633,2025-06-29,España,redes,No lo recomiendo para nada.,NEG,otro
+PROD-002,CLIENT-0625,2025-06-27,España,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-002,CLIENT-0622,2025-04-25,España,app,El servicio fue deficiente.,NEG,atención
+PROD-002,CLIENT-0621,2025-05-05,México,redes,El servicio fue deficiente.,NEG,atención
+PROD-002,CLIENT-0619,2025-07-28,España,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-002,CLIENT-0616,2025-07-28,España,app,No lo recomiendo para nada.,NEG,otro
+PROD-002,CLIENT-0612,2025-06-15,Colombia,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-002,CLIENT-0608,2025-02-20,España,redes,No lo recomiendo para nada.,NEG,otro
+PROD-002,CLIENT-0607,2025-02-01,Chile,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-002,CLIENT-0606,2025-02-28,Chile,web,No cumplió con mis expectativas.,NEG,otro
+PROD-002,CLIENT-0603,2025-07-26,Chile,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-003,CLIENT-0600,2025-06-25,Chile,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-003,CLIENT-0598,2025-02-16,España,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-003,CLIENT-0597,2025-02-11,Argentina,app,"Nada especial, pero funcional.",NEG,otro
+PROD-003,CLIENT-0596,2025-06-14,México,redes,Calidad decente por el precio.,NEG,precio
+PROD-003,CLIENT-0592,2025-03-17,México,app,No lo recomiendo para nada.,NEG,otro
+PROD-003,CLIENT-0591,2025-06-06,España,web,Calidad decente por el precio.,NEG,precio
+PROD-003,CLIENT-0590,2025-03-09,Colombia,redes,El servicio fue deficiente.,NEG,atención
+PROD-003,CLIENT-0586,2025-03-01,España,app,Es justo lo que necesitaba.,NEG,otro
+PROD-003,CLIENT-0585,2025-02-05,Chile,redes,No cumplió con mis expectativas.,NEG,otro
+PROD-003,CLIENT-0582,2025-04-15,Colombia,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-003,CLIENT-0580,2025-06-12,Chile,web,Calidad decente por el precio.,NEG,precio
+PROD-003,CLIENT-0575,2025-05-14,México,redes,Calidad decente por el precio.,NEG,precio
+PROD-003,CLIENT-0574,2025-02-14,España,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-003,CLIENT-0568,2025-02-22,Chile,redes,No lo recomiendo para nada.,NEG,otro
+PROD-003,CLIENT-0566,2025-05-03,Colombia,web,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-003,CLIENT-0560,2025-04-28,Chile,redes,Calidad decente por el precio.,NEG,precio
+PROD-003,CLIENT-0552,2025-04-06,Colombia,web,Muy satisfecho con la compra.,NEG,otro
+PROD-003,CLIENT-0549,2025-06-07,Chile,web,Es justo lo que necesitaba.,NEG,otro
+PROD-003,CLIENT-0546,2025-06-03,Chile,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-003,CLIENT-0544,2025-06-08,México,web,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-003,CLIENT-0543,2025-02-08,México,web,Es justo lo que necesitaba.,NEG,otro
+PROD-003,CLIENT-0536,2025-04-08,Colombia,web,El servicio fue deficiente.,NEG,atención
+PROD-003,CLIENT-0533,2025-05-12,México,app,Calidad decente por el precio.,NEG,precio
+PROD-003,CLIENT-0529,2025-04-30,México,web,Demasiado caro para lo que es.,NEG,precio
+PROD-003,CLIENT-0527,2025-02-08,México,app,Calidad decente por el precio.,NEG,precio
+PROD-003,CLIENT-0520,2025-04-30,Colombia,redes,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-003,CLIENT-0512,2025-02-21,México,web,Es justo lo que necesitaba.,NEG,otro
+PROD-003,CLIENT-0511,2025-02-10,Argentina,app,No cumplió con mis expectativas.,NEG,otro
+PROD-003,CLIENT-0508,2025-06-10,España,app,Es justo lo que necesitaba.,NEG,otro
+PROD-003,CLIENT-0507,2025-06-16,Chile,web,Demasiado caro para lo que es.,NEG,precio
+PROD-003,CLIENT-0503,2025-04-08,México,redes,El servicio fue deficiente.,NEG,atención
+PROD-003,CLIENT-0502,2025-03-21,México,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-003,CLIENT-0494,2025-03-13,España,web,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-003,CLIENT-0489,2025-03-12,México,redes,Calidad decente por el precio.,NEG,precio
+PROD-003,CLIENT-0487,2025-02-03,México,web,El servicio fue deficiente.,NEG,atención
+PROD-003,CLIENT-0482,2025-05-02,Argentina,web,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-003,CLIENT-0478,2025-04-16,México,web,Muy satisfecho con la compra.,NEG,otro
+PROD-003,CLIENT-0474,2025-04-20,Argentina,app,"Nada especial, pero funcional.",NEG,otro
+PROD-003,CLIENT-0471,2025-03-02,Chile,web,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-003,CLIENT-0469,2025-03-22,México,app,Es justo lo que necesitaba.,NEG,otro
+PROD-003,CLIENT-0466,2025-07-17,Chile,web,No lo recomiendo para nada.,NEG,otro
+PROD-003,CLIENT-0459,2025-06-28,Colombia,web,No lo recomiendo para nada.,NEG,otro
+PROD-003,CLIENT-0458,2025-02-18,Colombia,app,Es justo lo que necesitaba.,NEG,otro
+PROD-003,CLIENT-0457,2025-03-18,Argentina,web,Muy satisfecho con la compra.,NEG,otro
+PROD-003,CLIENT-0455,2025-07-20,Argentina,redes,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-003,CLIENT-0450,2025-02-09,México,web,Calidad decente por el precio.,NEG,precio
+PROD-003,CLIENT-0448,2025-05-20,Colombia,redes,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-003,CLIENT-0446,2025-04-23,España,app,No lo recomiendo para nada.,NEG,otro
+PROD-003,CLIENT-0445,2025-05-22,España,app,"Nada especial, pero funcional.",NEG,otro
+PROD-003,CLIENT-0439,2025-04-28,México,web,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-003,CLIENT-0438,2025-06-21,México,web,Muy satisfecho con la compra.,NEG,otro
+PROD-003,CLIENT-0437,2025-03-06,Chile,web,Es justo lo que necesitaba.,NEG,otro
+PROD-003,CLIENT-0434,2025-04-30,México,redes,Demasiado caro para lo que es.,NEG,precio
+PROD-003,CLIENT-0431,2025-06-09,Colombia,redes,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-003,CLIENT-0420,2025-04-09,Chile,web,No lo recomiendo para nada.,NEG,otro
+PROD-003,CLIENT-0419,2025-06-27,Chile,web,"Nada especial, pero funcional.",NEG,otro
+PROD-003,CLIENT-0416,2025-06-16,México,web,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-003,CLIENT-0414,2025-05-15,Colombia,web,No lo recomiendo para nada.,NEG,otro
+PROD-003,CLIENT-0405,2025-07-14,México,web,"Nada especial, pero funcional.",NEG,otro
+PROD-003,CLIENT-0404,2025-06-16,México,web,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-003,CLIENT-0403,2025-07-20,Chile,redes,Calidad decente por el precio.,NEG,precio
+PROD-003,CLIENT-0402,2025-04-15,Colombia,web,"Nada especial, pero funcional.",NEG,otro
+PROD-004,CLIENT-0399,2025-02-09,Argentina,app,No cumplió con mis expectativas.,NEG,otro
+PROD-004,CLIENT-0391,2025-06-27,Argentina,web,No lo recomiendo para nada.,NEG,otro
+PROD-004,CLIENT-0390,2025-06-17,España,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-004,CLIENT-0383,2025-02-15,Argentina,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-004,CLIENT-0373,2025-02-22,España,app,Es justo lo que necesitaba.,NEG,otro
+PROD-004,CLIENT-0372,2025-04-30,México,redes,No lo recomiendo para nada.,NEG,otro
+PROD-004,CLIENT-0371,2025-04-14,Chile,app,Muy satisfecho con la compra.,NEG,otro
+PROD-004,CLIENT-0367,2025-04-25,México,app,No cumplió con mis expectativas.,NEG,otro
+PROD-004,CLIENT-0364,2025-06-11,Colombia,web,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-004,CLIENT-0360,2025-02-25,México,web,Es justo lo que necesitaba.,NEG,otro
+PROD-004,CLIENT-0350,2025-02-24,México,redes,El servicio fue deficiente.,NEG,atención
+PROD-004,CLIENT-0349,2025-05-23,España,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-004,CLIENT-0343,2025-03-06,España,redes,No lo recomiendo para nada.,NEG,otro
+PROD-004,CLIENT-0341,2025-07-10,Colombia,redes,No cumplió con mis expectativas.,NEG,otro
+PROD-004,CLIENT-0338,2025-06-01,Argentina,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-004,CLIENT-0334,2025-05-21,Colombia,app,Muy satisfecho con la compra.,NEG,otro
+PROD-004,CLIENT-0333,2025-06-07,Colombia,redes,No cumplió con mis expectativas.,NEG,otro
+PROD-004,CLIENT-0331,2025-05-26,México,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-004,CLIENT-0323,2025-05-22,Colombia,redes,Demasiado caro para lo que es.,NEG,precio
+PROD-004,CLIENT-0321,2025-03-21,España,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-004,CLIENT-0320,2025-07-03,Chile,redes,Demasiado caro para lo que es.,NEG,precio
+PROD-004,CLIENT-0314,2025-02-22,México,app,"Nada especial, pero funcional.",NEG,otro
+PROD-004,CLIENT-0309,2025-05-19,Chile,web,No cumplió con mis expectativas.,NEG,otro
+PROD-004,CLIENT-0306,2025-05-18,México,app,Demasiado caro para lo que es.,NEG,precio
+PROD-004,CLIENT-0304,2025-07-11,España,redes,Demasiado caro para lo que es.,NEG,precio
+PROD-004,CLIENT-0303,2025-06-23,México,web,Calidad decente por el precio.,NEG,precio
+PROD-004,CLIENT-0302,2025-07-12,España,app,Muy satisfecho con la compra.,NEG,otro
+PROD-004,CLIENT-0301,2025-07-09,España,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-004,CLIENT-0296,2025-07-07,Colombia,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-004,CLIENT-0295,2025-07-20,España,web,No cumplió con mis expectativas.,NEG,otro
+PROD-004,CLIENT-0284,2025-03-30,Chile,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-004,CLIENT-0283,2025-07-29,Colombia,web,Demasiado caro para lo que es.,NEG,precio
+PROD-004,CLIENT-0281,2025-03-21,Argentina,app,Calidad decente por el precio.,NEG,precio
+PROD-004,CLIENT-0278,2025-06-23,Colombia,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-004,CLIENT-0274,2025-03-19,Colombia,app,Es justo lo que necesitaba.,NEG,otro
+PROD-004,CLIENT-0272,2025-07-13,México,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-004,CLIENT-0271,2025-03-16,Colombia,web,Demasiado caro para lo que es.,NEG,precio
+PROD-004,CLIENT-0269,2025-04-16,México,app,Calidad decente por el precio.,NEG,precio
+PROD-004,CLIENT-0264,2025-03-11,España,web,"Nada especial, pero funcional.",NEG,otro
+PROD-004,CLIENT-0261,2025-03-30,Colombia,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-004,CLIENT-0258,2025-03-28,Colombia,app,"Nada especial, pero funcional.",NEG,otro
+PROD-004,CLIENT-0257,2025-05-27,Chile,app,El servicio fue deficiente.,NEG,atención
+PROD-004,CLIENT-0252,2025-02-07,España,app,Calidad decente por el precio.,NEG,precio
+PROD-004,CLIENT-0247,2025-03-01,Colombia,app,El servicio fue deficiente.,NEG,atención
+PROD-004,CLIENT-0246,2025-02-26,Argentina,app,No lo recomiendo para nada.,NEG,otro
+PROD-004,CLIENT-0244,2025-07-16,Argentina,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-004,CLIENT-0243,2025-04-20,Chile,app,"Nada especial, pero funcional.",NEG,otro
+PROD-004,CLIENT-0230,2025-03-17,Argentina,app,No lo recomiendo para nada.,NEG,otro
+PROD-004,CLIENT-0228,2025-03-06,Colombia,app,Demasiado caro para lo que es.,NEG,precio
+PROD-004,CLIENT-0225,2025-06-08,Chile,app,No lo recomiendo para nada.,NEG,otro
+PROD-004,CLIENT-0221,2025-03-13,Chile,web,Muy satisfecho con la compra.,NEG,otro
+PROD-004,CLIENT-0215,2025-03-14,México,web,No cumplió con mis expectativas.,NEG,otro
+PROD-004,CLIENT-0213,2025-07-20,España,app,"Nada especial, pero funcional.",NEG,otro
+PROD-004,CLIENT-0211,2025-07-13,Colombia,web,El servicio fue deficiente.,NEG,atención
+PROD-004,CLIENT-0207,2025-04-03,Argentina,web,Muy satisfecho con la compra.,NEG,otro
+PROD-005,CLIENT-0192,2025-06-13,Argentina,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-005,CLIENT-0186,2025-04-24,Colombia,app,No lo recomiendo para nada.,NEG,otro
+PROD-005,CLIENT-0181,2025-03-16,España,app,El servicio fue deficiente.,NEG,atención
+PROD-005,CLIENT-0180,2025-03-11,España,redes,No lo recomiendo para nada.,NEG,otro
+PROD-005,CLIENT-0177,2025-03-26,Chile,web,El servicio fue deficiente.,NEG,atención
+PROD-005,CLIENT-0173,2025-03-26,España,web,No lo recomiendo para nada.,NEG,otro
+PROD-005,CLIENT-0170,2025-05-22,España,app,Es justo lo que necesitaba.,NEG,otro
+PROD-005,CLIENT-0162,2025-03-26,Argentina,web,Muy satisfecho con la compra.,NEG,otro
+PROD-005,CLIENT-0160,2025-04-15,Argentina,web,No cumplió con mis expectativas.,NEG,otro
+PROD-005,CLIENT-0158,2025-02-16,Colombia,web,Demasiado caro para lo que es.,NEG,precio
+PROD-005,CLIENT-0157,2025-06-14,Colombia,app,Es justo lo que necesitaba.,NEG,otro
+PROD-005,CLIENT-0155,2025-03-29,México,web,"Nada especial, pero funcional.",NEG,otro
+PROD-005,CLIENT-0154,2025-07-24,Argentina,app,Muy satisfecho con la compra.,NEG,otro
+PROD-005,CLIENT-0152,2025-07-08,Colombia,web,No cumplió con mis expectativas.,NEG,otro
+PROD-005,CLIENT-0149,2025-06-11,Colombia,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-005,CLIENT-0145,2025-06-26,México,app,Demasiado caro para lo que es.,NEG,precio
+PROD-005,CLIENT-0143,2025-04-08,México,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-005,CLIENT-0142,2025-05-05,España,app,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-005,CLIENT-0140,2025-06-03,Argentina,app,El servicio fue deficiente.,NEG,atención
+PROD-005,CLIENT-0134,2025-03-29,Chile,app,No cumplió con mis expectativas.,NEG,otro
+PROD-005,CLIENT-0128,2025-06-18,Argentina,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-005,CLIENT-0125,2025-02-14,México,redes,No lo recomiendo para nada.,NEG,otro
+PROD-005,CLIENT-0118,2025-05-10,Argentina,app,No cumplió con mis expectativas.,NEG,otro
+PROD-005,CLIENT-0112,2025-05-09,España,redes,No cumplió con mis expectativas.,NEG,otro
+PROD-005,CLIENT-0108,2025-06-14,Colombia,app,Es justo lo que necesitaba.,NEG,otro
+PROD-005,CLIENT-0102,2025-06-01,Colombia,web,No lo recomiendo para nada.,NEG,otro
+PROD-005,CLIENT-0101,2025-05-21,Argentina,web,No lo recomiendo para nada.,NEG,otro
+PROD-005,CLIENT-0100,2025-04-03,España,app,Muy satisfecho con la compra.,NEG,otro
+PROD-005,CLIENT-0097,2025-05-03,México,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-005,CLIENT-0096,2025-02-01,México,app,Calidad decente por el precio.,NEG,precio
+PROD-005,CLIENT-0092,2025-06-08,Chile,redes,Demasiado caro para lo que es.,NEG,precio
+PROD-005,CLIENT-0088,2025-04-30,España,app,Es justo lo que necesitaba.,NEG,otro
+PROD-005,CLIENT-0084,2025-03-22,Chile,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-005,CLIENT-0081,2025-02-03,España,redes,Muy satisfecho con la compra.,NEG,otro
+PROD-005,CLIENT-0077,2025-05-09,Chile,redes,Demasiado caro para lo que es.,NEG,precio
+PROD-005,CLIENT-0075,2025-07-26,Argentina,app,El servicio fue deficiente.,NEG,atención
+PROD-005,CLIENT-0073,2025-03-03,España,web,"Nada especial, pero funcional.",NEG,otro
+PROD-005,CLIENT-0072,2025-03-12,Chile,web,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-005,CLIENT-0060,2025-07-19,México,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-005,CLIENT-0045,2025-05-01,Chile,redes,Calidad decente por el precio.,NEG,precio
+PROD-005,CLIENT-0043,2025-07-07,Colombia,web,Muy satisfecho con la compra.,NEG,otro
+PROD-005,CLIENT-0041,2025-05-31,Chile,app,Demasiado caro para lo que es.,NEG,precio
+PROD-005,CLIENT-0040,2025-02-05,España,web,No lo recomiendo para nada.,NEG,otro
+PROD-005,CLIENT-0036,2025-05-01,Colombia,redes,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-005,CLIENT-0034,2025-02-23,Chile,web,Calidad decente por el precio.,NEG,precio
+PROD-005,CLIENT-0029,2025-06-11,Argentina,redes,"Excelente, lo volvería a comprar.",NEG,otro
+PROD-005,CLIENT-0027,2025-07-05,Chile,app,Demasiado caro para lo que es.,NEG,precio
+PROD-005,CLIENT-0019,2025-02-12,España,redes,"Nada especial, pero funcional.",NEG,otro
+PROD-005,CLIENT-0018,2025-05-18,España,web,Muy satisfecho con la compra.,NEG,otro
+PROD-005,CLIENT-0017,2025-02-08,España,app,El producto llegó rápido y en buen estado.,NEG,entrega
+PROD-005,CLIENT-0015,2025-06-05,España,redes,Calidad decente por el precio.,NEG,precio
+PROD-005,CLIENT-0012,2025-06-21,Chile,web,Demasiado caro para lo que es.,NEG,precio
+PROD-005,CLIENT-0007,2025-05-28,Chile,app,Es justo lo que necesitaba.,NEG,otro
+PROD-005,CLIENT-0003,2025-04-08,Colombia,app,Es justo lo que necesitaba.,NEG,otro
